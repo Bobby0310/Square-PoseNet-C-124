@@ -1,10 +1,12 @@
 .heading{
     color:  rgb(171, 110, 227);
     font-weight: bold;
+    width: 100%;
 }
 .Note{
     color: rgb(150, 27, 27);
     font-size: 13px;
+    width: 100%;
 }
 
 .CR{
